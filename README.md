@@ -1,5 +1,5 @@
 # MemoryGame
-A simple memory game of cards implemented in Java
+A simple memory game of cards implemented in Java.
 
 TODO:
 - Check for that program works in all possible cases.
